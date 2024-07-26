@@ -309,8 +309,9 @@ section {
 }
 
 .section__pic-container {
-  height: 400px;
-  width: 400px;
+  display: flex;
+  height: 300px;
+  width: 300px;
   margin-right: 100px;
 }
 
